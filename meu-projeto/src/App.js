@@ -3,7 +3,7 @@ import Button from './componentes/button/Button';
 function App() {
   return (
     <div className="App">
-      <Button/>
+      <Button text='Compre'/>
     </div>
   );
 }

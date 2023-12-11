@@ -1,9 +1,9 @@
 import styles from './Button.module.css'
 
-function Button(){
+function Button(props){
     return(
         <div className={styles.btn}>
-            <button > Criar minha conta</button>
+            <button >{props.text}</button>
         </div>
     )
 }
