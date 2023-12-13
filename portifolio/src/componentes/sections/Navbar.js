@@ -12,13 +12,13 @@ function Navbar() {
             </ul>
 
             <ul>
-                <li><a href="https://www.instagram.com/viniiirj/" target='_blank'>
+                <li><a href="https://www.instagram.com/viniiirj/">
                     <FaInstagram size={30}/>
                 </a></li>
-                <li><a href="https://github.com/viniiirj" target='_blank'>
+                <li><a href="https://github.com/viniiirj">
                     <FaGithub size={30}/>
                 </a></li>
-                <li><a href="https://www.linkedin.com/in/viniiirj/" target='_blank'>
+                <li><a href="https://www.linkedin.com/in/viniiirj/">
                     <FaLinkedin size={30}/>
                 </a></li>
             </ul>
